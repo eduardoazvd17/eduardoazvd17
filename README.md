@@ -1,6 +1,7 @@
 ## Olá, eu sou o Eduardo Azevedo 👋
 
-Com 5 anos de experiência profissional, concentrei os últimos 3 anos no desenvolvimento multiplataforma com Flutter, destacando-me na criação de soluções performáticas e inovadoras.
+Com 5 anos de experiência, destaco-me na criação de soluções performáticas, inovadoras e sustentáveis no desenvolvimento multiplataforma, com especialização em Flutter. Minhas maiores realizações incluem a otimização de performance em projetos, redução de complexidade de código, automação de processos de CI/CD e migração de projetos antigos para null-safety, garantindo maior estabilidade e segurança. 
+Além do framework Flutter, possuo amplo conhecimento em outras tecnologias relacionadas a engenharia de software.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoazvd17/)
 [![Website](https://img.shields.io/badge/eduardoazevedo.com-purple?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardoazevedo.com)
