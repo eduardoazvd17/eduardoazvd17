@@ -1,14 +1,11 @@
-## Olá, eu sou o Eduardo Azevedo 👋
+## Hi there. I'm Eduardo Azevedo 👋
 
-Com 5 anos de experiência, destaco-me na criação de soluções performáticas, inovadoras e sustentáveis no desenvolvimento multiplataforma, com especialização em Flutter. Minhas maiores realizações incluem a otimização de performance em projetos, redução de complexidade de código, automação de processos de CI/CD e migração de projetos antigos para null-safety, garantindo maior estabilidade e segurança. 
-Além do framework Flutter, possuo amplo conhecimento em outras tecnologias relacionadas a engenharia de software.
+I am a mobile developer with 5 years of experience, specializing in the Flutter framework. Over the course of my career, I’ve had the chance to independently lead mobile projects, develop solutions for financial institutions, and make key improvements that boosted app performance. My focus has always been on creating high-performance, innovative, and scalable solutions, with a strong emphasis on delivering top-quality products and continuously improving the user experience.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoazvd17/)
 [![Website](https://img.shields.io/badge/eduardoazevedo.com-purple?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardoazevedo.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=eduardoazvd17&show_icons=true&theme=dracula)
-
-### Tecnologias que possuo conhecimento:
 
 ![Flutter (Dart)](https://img.shields.io/badge/Flutter%20(Dart)-blue?style=for-the-badge&logo=flutter&logoColor=white)
 ![.NET](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
