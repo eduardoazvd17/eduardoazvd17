@@ -1,6 +1,8 @@
 ## Hi there. I'm Eduardo Azevedo 👋
 
-I am a mobile developer with 7 years of experience, specializing in the Flutter framework. Over the course of my career, I’ve had the chance to independently lead mobile projects, develop solutions for financial institutions, and make key improvements that boosted app performance. My focus has always been on creating high-performance, innovative, and scalable solutions, with a strong emphasis on delivering top-quality products and continuously improving the user experience.
+Mobile developer with 7 years of experience, specializing in Flutter and cross-platform projects. Strong background in financial institutions and high-performance solutions, working from development to technical leadership. Focused on user experience, scalability, and performance, combining technical expertise with an agile, results-oriented mindset.
+
+I have solid experience in various areas of Flutter, including internationalization, modularization, state and route management, custom widget creation, reusable package development, CI/CD pipeline automation with Codemagic, app publishing to stores, and unit and widget testing. I also follow best practices in memory management to prevent memory leaks and apply SOLID principles and Clean Code to keep the code clean, well-organized, and easy to maintain.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoazvd17/)
 [![Website](https://img.shields.io/badge/eduardoazevedo.com-purple?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardoazevedo.com)
