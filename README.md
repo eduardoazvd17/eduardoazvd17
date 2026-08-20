@@ -5,7 +5,7 @@ Mobile developer with 7 years of experience, specializing in Flutter and cross-p
 I have solid experience in various areas of Flutter, including internationalization, modularization, state and route management, custom widget creation, reusable package development, CI/CD pipeline automation with Codemagic, app publishing to stores, and unit and widget testing. I also follow best practices in memory management to prevent memory leaks and apply SOLID principles and Clean Code to keep the code clean, well-organized, and easy to maintain.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoazvd17/)
-[![Website](https://img.shields.io/badge/eduardoazevedo.com-purple?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardoazevedo.com)
+[![Website](https://img.shields.io/badge/azevedotech.dev-purple?style=for-the-badge&logo=About.me&logoColor=white)](https://azevedotech.dev)
 
 <div class='container'>
   <img style="height: auto; width: 59%" class="img" src="https://github-readme-stats.vercel.app/api?username=eduardoazvd17&show_icons=true&theme=dracula"/>
